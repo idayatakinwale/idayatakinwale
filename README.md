@@ -5,8 +5,8 @@
 I help organizations make better, data-driven decisions by transforming raw data into meaningful insights. With expertise in data visualization, reporting, and analysis, I enjoy turning complex data into clear, actionable information.
 
 🛠️ **Skills & Tools:**
-- Excel (Data Cleaning, Analysis, Dashboards)
-- Power BI (Interactive Reports & Dashboards)
+- Excel (Advanced data analysis, PivotTables, Power Query & Dashboards)
+- Power BI (Building interactive reports, data modeling, and DAX calculations)
 - SQL (Data Exploration & Querying)
 
 📩 **Let's Connect:**
