@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Idayat Akinwale
 
-<!--
-**idayatakinwale/idayatakinwale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Passionate Data Analyst | Insight-Driven Decision Maker**
 
-Here are some ideas to get you started:
+I help organizations make better, data-driven decisions by transforming raw data into meaningful insights. With expertise in data visualization, reporting, and analysis, I enjoy turning complex data into clear, actionable information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills & Tools:**
+- Excel (Data Cleaning, Analysis, Dashboards)
+- Power BI (Interactive Reports & Dashboards)
+- SQL (Data Exploration & Querying)
+
+📩 **Let's Connect:**
+- 📧 Email: idayatakinwale20@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/idayat-akinwale)
+
+---
+
+🚀 *Always learning, always improving — excited to collaborate on impactful projects!*
